@@ -9,13 +9,27 @@
 #include <cmath>
 #include <time.h>
 
+#include "status.h"
+#include "ability.h"
+#include "equipment.h"
+
 using namespace std;
+
+class Partymember;
+class Item;
 
 class Monster{
 private:
 
 public:
 
+
+};
+
+class MonsterParty{
+private:
+
+public:
 
 };
 
