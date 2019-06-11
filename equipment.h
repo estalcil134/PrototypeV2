@@ -5,6 +5,7 @@
 #include <iomanip>
 #include <cstdlib>
 #include <vector>
+#include <map>
 #include <fstream>
 #include <cmath>
 #include <time.h>
@@ -13,9 +14,12 @@ using namespace std;
 
 class Equipment{
 private:
-	
+
 public:
-	
+	Equipment(){}
+
+
+	void printInfo(){}
 
 };
 

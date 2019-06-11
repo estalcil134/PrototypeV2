@@ -5,6 +5,7 @@
 #include <iomanip>
 #include <cstdlib>
 #include <vector>
+#include <map>
 #include <fstream>
 #include <cmath>
 #include <time.h>
@@ -15,10 +16,12 @@ class Ability{
 private:
 	string name;
 	string type; //passive, on-hit, etc
-	
+
 public:
+	Ability(){}
 
 
+	void printInfo(){}
 };
 
 #endif

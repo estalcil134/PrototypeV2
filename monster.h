@@ -5,6 +5,7 @@
 #include <iomanip>
 #include <cstdlib>
 #include <vector>
+#include <map>
 #include <fstream>
 #include <cmath>
 #include <time.h>
